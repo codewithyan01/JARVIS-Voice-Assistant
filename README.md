@@ -46,3 +46,14 @@ and give commands like:
 “Tell me the date”
 “Open YouTube”
 “Give me news”
+## What I learned
+
+- integrating speech-to-text and text-to-speech into one working pipeline
+- handling failed or unclear speech recognition without crashing the assistant
+- structuring commands in a modular way so new features can be added without rewriting the main program
+
+## Limitations
+
+- requires an internet connection for speech recognition and the OpenAI API
+- Windows-focused
+- no offline mode
